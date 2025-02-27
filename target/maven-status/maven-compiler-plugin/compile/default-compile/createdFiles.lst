@@ -12,10 +12,12 @@ com\pms\dto\UserClassDto.class
 com\pms\controller\Controller.class
 com\pms\service\CustomizationService.class
 com\pms\dto\ReservationDto.class
+com\pms\entity\ContactUs.class
 com\pms\service\PaymentService.class
 com\pms\entity\Facility.class
 com\pms\service\UserClassService.class
 com\pms\dto\UserInfoDto.class
+com\pms\repository\ContactUsDao.class
 com\pms\controller\PaymentController.class
 com\pms\controller\ReservationController.class
 com\pms\repository\FacilityDao$FacilityReservationProjection.class
@@ -41,6 +43,7 @@ com\pms\controller\FacilityController.class
 com\pms\entity\Notification.class
 com\pms\entity\UserInfo.class
 com\pms\filter\JwtAuthFilter.class
+com\pms\service\ContactUsService.class
 com\pms\entity\Payment.class
 com\pms\entity\RefreshToken.class
 com\pms\dto\FacilityDto.class
@@ -59,6 +62,7 @@ com\pms\repository\NotificationDao.class
 com\pms\service\EmailService.class
 com\pms\service\CategoryService.class
 com\pms\entity\Session.class
+com\pms\controller\ContactUsController.class
 com\pms\config\SecurityConfig.class
 com\pms\repository\VehicleDao.class
 com\pms\config\JwtConfig.class
